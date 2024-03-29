@@ -1,5 +1,5 @@
-site_name: UMN PLACEHODLER Docs
-site_url: https://PLACEHOLDER.oit.umn.edu/
+site_name: Spalding Test Docs
+# site_url: https://PLACEHOLDER.oit.umn.edu/
 site_description: >-
   PLACEHODLER DESCRIPTION
 theme:
@@ -24,8 +24,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-repo_url: https://github.com/umn-PLACEHODLER/PLACEHODLER-docs
-repo_name: PLACEHODLER
+repo_url: https://github.com/spaldingumn/test-pages
+repo_name: test-pages
 edit_uri: tree/main/docs
 plugins:
   - search
